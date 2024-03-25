@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BossaDevTech
-- 👀 I’m interested in Java Software and Android Development and its frameworks (Spring), Jakarta EE Web Application & Azure Cloud DevOps
-- 🌱 I’m currently learning DevOps tools (Terraform, Ansible, etc), Java for Desktop Applications and Web Applications, Android with Java, DevOps and Cloud
+- 👀 I’m interested in Java Software Development, Java Spring framework, Android Application Development, Web Application (with React), and Azure Cloud DevOps.
+- 🌱 I’m currently learning some DevOps tools (Terraform, Ansible, etc) and becoming proficient gradually.
 - 💞️ I’m looking to collaborate on a Java Project and Azure DevOps
 - 📫 How to reach me - Contact Number - +447778678907
 - 😄 
