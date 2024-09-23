@@ -3,7 +3,7 @@
     - Java Software Development
     - Spring Framework Application
     - Android Application Development
-    - Web Application (with React)
+    - React for Web Application
     - Microservices Architecture Design Principles
     - Azure Cloud DevOps
     - Containerization with Docker and Kubernetes
