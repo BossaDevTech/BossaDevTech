@@ -8,7 +8,7 @@
     - Azure Cloud DevOps
     - Containerization with Docker and Kubernetes
 - 🌱 I’m currently learning some DevOps tools (Terraform, Ansible, etc) and becoming proficient gradually.
-- 💞️ I’m looking to collaborate on a Java Project and Azure DevOps
+- 💞️ I’m looking to collaborate on a Java Programming and Azure DevOps Projects
 - 📫 How to reach me - Contact Number - +447778678907
 - 😄 
 - ⚡ 
